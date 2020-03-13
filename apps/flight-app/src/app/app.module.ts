@@ -7,7 +7,7 @@ import { RouterModule } from "@angular/router";
 import { FlightApiModule } from "@flight-workspace/flight-api";
 
 import { AppComponent } from "./app.component";
-import { APP_EXTRA_OPTIONS, APP_ROUTES } from "./app.routes";
+import { APP_ROUTES } from "./app.routes";
 import { BasketComponent } from "./basket/basket.component";
 import { FlightBookingModule } from "./flight-booking/flight-booking.module";
 import { HomeComponent } from "./home/home.component";
